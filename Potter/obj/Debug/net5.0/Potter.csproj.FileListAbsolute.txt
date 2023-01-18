@@ -1,0 +1,16 @@
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.exe
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.deps.json
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.runtimeconfig.json
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.runtimeconfig.dev.json
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.dll
+C:\Users\Krist\source\repos\Potter\Potter\bin\Debug\net5.0\Potter.pdb
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.csproj.AssemblyReference.cache
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.AssemblyInfoInputs.cache
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.AssemblyInfo.cs
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.csproj.CoreCompileInputs.cache
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.dll
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\refint\Potter.dll
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.pdb
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\Potter.genruntimeconfig.cache
+C:\Users\Krist\source\repos\Potter\Potter\obj\Debug\net5.0\ref\Potter.dll
